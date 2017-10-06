@@ -1,0 +1,16 @@
+{
+    "name": "CoffeeApp",
+    "version": "0.1.0",
+    "description": "First Steps with CoffeeScript",
+    "author": "Ilan Pillemer",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-coffee": "^2.3.4",
+        "gulp-concat": "^2.6.1",
+        "gulp-livereload": "^3.8.1",
+        "gulp-ruby-sass": "^2.1.1",
+        "gulp-uglify": "^3.0.0",
+        "gulp-util": "^3.0.8",
+        "tiny-lr": "^1.0.5"
+    }
+}
