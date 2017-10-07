@@ -1,3 +1,3 @@
-function one() {
-    return "one ring to bind them under the sun";
-}
+$(function() {
+  return $('h1').append('Hello World!');
+});
